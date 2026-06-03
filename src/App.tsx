@@ -552,7 +552,7 @@ export default function App() {
 
           <div className="floating-card">
             <span>Open to</span>
-            <strong>Student Software Roles</strong>
+            <strong> Software Roles</strong>
           </div>
         </div>
 
