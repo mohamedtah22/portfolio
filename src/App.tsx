@@ -681,8 +681,8 @@ export default function App() {
         <h2>Let's build something.</h2>
 
         <p>
-          I am open to student software engineering roles, backend/full-stack
-          internships, and roles involving TypeScript, React, Node.js,
+          I am open to  software engineering roles, backend/full-stack
+          , and roles involving TypeScript, React, Node.js,
           WebSockets, databases, AWS, Linux, C/C++, embedded foundations,
           operating systems, and backend architecture.
         </p>
