@@ -558,7 +558,7 @@ export default function App() {
 
         <div className="hero-text">
           <p className="badge">
-            Final-Year CS Student • GPA 84 • Full-Stack • Low-Level Systems
+            Final-semester • GPA 84 • Full-Stack • Low-Level Systems
           </p>
 
           <h1>
